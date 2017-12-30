@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79031F95-B387-42F5-B786-FA9312B72B1B}"
+	ProjectSection(SolutionItems) = preProject
+		license.txt = license.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duracellko.ClipboardShare", "Duracellko.ClipboardShare\Duracellko.ClipboardShare.csproj", "{ABC5F5EA-2BE8-407B-9571-7AE5FA2B3B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duracellko.ClipboardShareUI", "Duracellko.ClipboardShareUI\Duracellko.ClipboardShareUI.csproj", "{87F9335F-B32A-442F-A717-6471C015A3E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ClipboardShareInstaller", "ClipboardShareInstaller\ClipboardShareInstaller.vdproj", "{4AC4A7AB-9BB0-42CF-995B-CD619485D0B1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs08
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClipboardShareInstaller\\ClipboardShareInstaller.vdproj
+		SccProjectName1 = ClipboardShareInstaller
+		SccLocalPath1 = ClipboardShareInstaller
+		SccProjectUniqueName2 = Duracellko.ClipboardShare\\Duracellko.ClipboardShare.csproj
+		SccProjectName2 = Duracellko.ClipboardShare
+		SccLocalPath2 = Duracellko.ClipboardShare
+		SccProjectUniqueName3 = Duracellko.ClipboardShareUI\\Duracellko.ClipboardShareUI.csproj
+		SccProjectName3 = Duracellko.ClipboardShareUI
+		SccLocalPath3 = Duracellko.ClipboardShareUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC5F5EA-2BE8-407B-9571-7AE5FA2B3B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC5F5EA-2BE8-407B-9571-7AE5FA2B3B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC5F5EA-2BE8-407B-9571-7AE5FA2B3B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC5F5EA-2BE8-407B-9571-7AE5FA2B3B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F9335F-B32A-442F-A717-6471C015A3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F9335F-B32A-442F-A717-6471C015A3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F9335F-B32A-442F-A717-6471C015A3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F9335F-B32A-442F-A717-6471C015A3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC4A7AB-9BB0-42CF-995B-CD619485D0B1}.Debug|Any CPU.ActiveCfg = Release
+		{4AC4A7AB-9BB0-42CF-995B-CD619485D0B1}.Release|Any CPU.ActiveCfg = Release
+		{4AC4A7AB-9BB0-42CF-995B-CD619485D0B1}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
